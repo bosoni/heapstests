@@ -1,0 +1,7 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-hl Test.hl
+-main Main
+-D windowSize=1366x768
+-D windowTitle=Test
